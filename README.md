@@ -1,13 +1,6 @@
 # 서버구축
 
 ---
-layout: post
-title: "Notion으로 글 작성하고 Github io로 글 옮기기"
-subtitle: "[Tips]"
-date: 2020-03-02 17:00
-background: 
-tag: [Tips, Github io, Notion]
----
 
 우분투 서버 18.04.6 버전 이용
 
