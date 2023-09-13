@@ -24,7 +24,7 @@ systemctl status apache2 (아파치 동작 확인)
 
 ip address → 첫 주소로 다른 컴퓨터에서 접속후 
 
-![NotionToGithubioPorting1.png]([%E1%84%80%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%92%E1%85%A9%E1%86%B7%E1%84%91%E1%85%B5%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5%2004788b4c58804f35932556e37f09ec58/Untitled.png](https://www.notion.so/04788b4c58804f35932556e37f09ec58?pvs=4#d22f6ca65f9b46e793faed8eab277e8f))
+![Untitled](https://github.com/UmPage/CACPage/assets/31699375/48c866c8-35a3-48ea-a14b-465b41b8d67c)
 
 화면 나오면 성공
 
@@ -44,7 +44,7 @@ service tomcat9 status
 
 타 컴퓨터에서 IP주소:8080 으로 접속 후
 
-![Untitled](%E1%84%80%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%92%E1%85%A9%E1%86%B7%E1%84%91%E1%85%B5%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5%2004788b4c58804f35932556e37f09ec58/Untitled%201.png)
+![1](https://github.com/UmPage/CACPage/assets/31699375/348c3a96-2010-4bc0-a676-b8a235e2785a)
 
 화면 나오면 성공
 
@@ -70,7 +70,7 @@ sudo service apache2 restart
 
 sudo service tomcat9 restart
 
-![Untitled](%E1%84%80%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%92%E1%85%A9%E1%86%B7%E1%84%91%E1%85%B5%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5%2004788b4c58804f35932556e37f09ec58/Untitled%202.png)
+![2](https://github.com/UmPage/CACPage/assets/31699375/e7c63027-5cc4-44a4-a5f5-453b5ad592cd)
 
 IP주소 뒤 :8080 붙이지 않아도 톰캣화면 출력
 
@@ -78,7 +78,7 @@ IP주소 뒤 :8080 붙이지 않아도 톰캣화면 출력
 
 [http://cac.iptime.org:8080/](http://cac.iptime.org:8080/) 입력시 = 117.16.21.52:8080 과 동일
 
-![Untitled](%E1%84%80%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%92%E1%85%A9%E1%86%B7%E1%84%91%E1%85%B5%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5%2004788b4c58804f35932556e37f09ec58/Untitled%203.png)
+![3](https://github.com/UmPage/CACPage/assets/31699375/d4761225-7729-4382-be23-ea4c35ffe8fd)
 
 화면 출력 성공
 
@@ -139,11 +139,11 @@ iptime 설정 바꾸기, 바이오스 설정 바꾸기
 
 putty 에서 전역ip로 설정 후 접속 테스트(외부망) + iptime 설정 포트포워딩 22000 포트 뚫기
 
-![Untitled](%E1%84%80%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%92%E1%85%A9%E1%86%B7%E1%84%91%E1%85%B5%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5%2004788b4c58804f35932556e37f09ec58/Untitled%204.png)
+![4](https://github.com/UmPage/CACPage/assets/31699375/142b903a-a009-4cf3-a235-68f1f2dfdc10)
 
 공유기 원격관리 포트 뚫기(enable) 이후 외부망으로 공유기 관리페이지 접속 → WOL 기능 실험 → putty 접속 실험
 
-![Untitled](%E1%84%80%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%92%E1%85%A9%E1%86%B7%E1%84%91%E1%85%B5%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5%2004788b4c58804f35932556e37f09ec58/Untitled%205.png)
+![5](https://github.com/UmPage/CACPage/assets/31699375/3560204a-0804-4011-b01a-1ebd6c76028d)
 
 - MySQL 설치 및 설정 (DB)
 
