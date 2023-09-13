@@ -24,7 +24,7 @@ systemctl status apache2 (아파치 동작 확인)
 
 ip address → 첫 주소로 다른 컴퓨터에서 접속후 
 
-![Untitled](%E1%84%80%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%92%E1%85%A9%E1%86%B7%E1%84%91%E1%85%B5%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5%2004788b4c58804f35932556e37f09ec58/Untitled.png)
+![NotionToGithubioPorting1.png]([%E1%84%80%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%20%E1%84%92%E1%85%A9%E1%86%B7%E1%84%91%E1%85%B5%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5%2004788b4c58804f35932556e37f09ec58/Untitled.png](https://www.notion.so/04788b4c58804f35932556e37f09ec58?pvs=4#d22f6ca65f9b46e793faed8eab277e8f))
 
 화면 나오면 성공
 
